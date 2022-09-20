@@ -1,0 +1,9 @@
+{"skills":[
+{"id":0,"name":"Fireball","description":"Magic ball infused with fire magic, it explodes when hit something","cooldown":2.5,"duration":-1.0,"speed":4.0,"damage":90.0,"range":900.0,"aoe_range":4.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0},
+{"id":1,"name":"Waterball","description":"When explodes damages targets in forward cone shape with a splash of water","cooldown":2.0,"duration":-1.0,"speed":2.0,"damage":90.0,"range":900.0,"aoe_range":4.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0},
+{"id":2,"name":"Windball","description":"Wind infused magic ball that follows a target","cooldown":1.0,"duration":10.0,"speed":7.0,"damage":100.0,"range":-1.0,"aoe_range":0.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0},
+{"id":3,"name":"Lightningball","description":"When it moves through the air, it emmits ark lightnings that damage random enemis","cooldown":2.0,"duration":-1.0,"speed":0.0,"damage":15.0,"range":900.0,"aoe_range":0.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0},
+{"id":4,"name":"Earthball","description":"After hitting an object it creates a stone pilar","cooldown":1.5,"duration":-1.0,"speed":3.0,"damage":0.0,"range":900.0,"aoe_range":0.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0},
+{"id":5,"name":"Darkball","description":"Enemies in close proximity to the ball run in fear and receive damage","cooldown":1.5,"duration":-1.0,"speed":4.0,"damage":90.0,"range":900.0,"aoe_range":4.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0},
+{"id":6,"name":"Lightball","description":"Follows the player and heals him over time","cooldown":1.5,"duration":-1.0,"speed":4.0,"damage":90.0,"range":900.0,"aoe_range":4.0,"modificator_id":-1,"modificator_value":0.0,"modificator_duration":0.0}
+]}

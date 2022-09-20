@@ -1,0 +1,5 @@
+
+interface ISave
+{
+    void save();
+}
